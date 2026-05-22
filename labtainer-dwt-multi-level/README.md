@@ -25,12 +25,23 @@ imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/l
 Sau do chay tung lab:
 
 ```bash
+rebuild -L -f -b dwtml-1-basics
 labtainer dwtml-1-basics
+
+rebuild -L -f -b dwtml-2-embed
 labtainer dwtml-2-embed
+
+rebuild -L -f -b dwtml-3-robust
 labtainer dwtml-3-robust
+
+rebuild -L -f -b dwtml-4-capacity
 labtainer dwtml-4-capacity
+
+rebuild -L -f -b dwtml-5-adaptive
 labtainer dwtml-5-adaptive
 ```
+
+Giai thich: cac lab nay la lab tu tao, chua co Docker image public tren DockerHub. Lenh `rebuild -L -f -b <ten-lab>` build image local tu Dockerfile cua lab va khong query DockerHub. Sau khi build thanh cong, dung `labtainer <ten-lab>` de chay lab. Neu muon build va chay ngay trong mot lenh, co the bo `-b`.
 
 Khi terminal lab mo ra, sinh vien se duoc yeu cau nhap ma sinh vien. Sau khi lam xong cac lenh bat buoc trong bai, chay lenh sau tu terminal host de tu kiem tra:
 
