@@ -31,3 +31,11 @@ labtainer dwtml-3-robust
 labtainer dwtml-4-capacity
 labtainer dwtml-5-adaptive
 ```
+
+Khi terminal lab mo ra, sinh vien se duoc yeu cau nhap ma sinh vien. Sau khi lam xong cac lenh bat buoc trong bai, chay lenh sau tu terminal host de tu kiem tra:
+
+```bash
+checkwork
+```
+
+Moi tieu chi hoan thanh se hien `Y`. Neu tieu chi nao khong co `Y`, sinh vien can quay lai chay dung buoc tuong ung trong bai lab.
