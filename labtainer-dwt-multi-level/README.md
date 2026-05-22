@@ -4,21 +4,11 @@ Thu muc nay chua 5 file IModule `.tar` cho Labtainers ve chu de giau tin anh tre
 
 ## Danh sach lab
 
-- `dwtml-1-basics.tar`: phan ra va tai tao anh voi DWT nhieu muc. Huong dan: [`docx/dwtml-1-basics.docx`](docx/dwtml-1-basics.docx)
-- `dwtml-2-embed.tar`: nhung va trich thong diep trong subband DWT. Huong dan: [`docx/dwtml-2-embed.docx`](docx/dwtml-2-embed.docx)
-- `dwtml-3-robust.tar`: so sanh do ben cua cac subband sau nhieu/luong tu hoa. Huong dan: [`docx/dwtml-3-robust.docx`](docx/dwtml-3-robust.docx)
-- `dwtml-4-capacity.tar`: do capacity, payload size va PSNR. Huong dan: [`docx/dwtml-4-capacity.docx`](docx/dwtml-4-capacity.docx)
-- `dwtml-5-adaptive.tar`: giau tin nhieu muc co khoa. Huong dan: [`docx/dwtml-5-adaptive.docx`](docx/dwtml-5-adaptive.docx)
-
-## File huong dan DOCX
-
-Moi file `.docx` trong thu muc `docx/` da gom du:
-
-- URL `imodule` truc tiep tu GitHub.
-- Lenh khoi dong lab.
-- Buoc nhap ma sinh vien khi bat dau.
-- Cac task can chay trong container.
-- Bang tieu chi `checkwork` va cach sua khi mot tieu chi chua hien `Y`.
+- `dwtml-1-basics.tar`: phan ra va tai tao anh voi DWT nhieu muc.
+- `dwtml-2-embed.tar`: nhung va trich thong diep trong subband DWT.
+- `dwtml-3-robust.tar`: so sanh do ben cua cac subband sau nhieu/luong tu hoa.
+- `dwtml-4-capacity.tar`: do capacity, payload size va PSNR.
+- `dwtml-5-adaptive.tar`: giau tin nhieu muc co khoa.
 
 ## Cach import trong VM Labtainer
 
