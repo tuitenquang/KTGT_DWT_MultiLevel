@@ -12,14 +12,14 @@ Thu muc nay chua 5 file IModule `.tar` cho Labtainers ve chu de giau tin anh tre
 
 ## Cach import trong VM Labtainer
 
-Copy cac file `.tar` vao VM, vi du `/home/student/imodules/`, roi chay:
+Chay truc tiep cac URL GitHub sau trong VM Labtainer:
 
 ```bash
-imodule file:///home/student/imodules/dwtml-1-basics.tar
-imodule file:///home/student/imodules/dwtml-2-embed.tar
-imodule file:///home/student/imodules/dwtml-3-robust.tar
-imodule file:///home/student/imodules/dwtml-4-capacity.tar
-imodule file:///home/student/imodules/dwtml-5-adaptive.tar
+imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/labtainer-dwt-multi-level/dwtml-1-basics.tar
+imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/labtainer-dwt-multi-level/dwtml-2-embed.tar
+imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/labtainer-dwt-multi-level/dwtml-3-robust.tar
+imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/labtainer-dwt-multi-level/dwtml-4-capacity.tar
+imodule https://raw.githubusercontent.com/tuitenquang/KTGT_DWT_MultiLevel/main/labtainer-dwt-multi-level/dwtml-5-adaptive.tar
 ```
 
 Sau do chay tung lab:
